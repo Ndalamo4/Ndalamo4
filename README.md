@@ -1,17 +1,3 @@
-{
-  "name": "ai-chat-backend",
-  "type": "module",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^16.3.1",
-    "express": "^4.18.2",
-    "openai": "^4.20.0"
-  }
-}
 <!DOCTYPE html>
 <html lang="en">
 <head>
